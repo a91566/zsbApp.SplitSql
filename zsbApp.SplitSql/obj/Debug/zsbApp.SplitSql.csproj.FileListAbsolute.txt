@@ -1,0 +1,10 @@
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\bin\Debug\zsbApp.SplitSql.exe.config
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\bin\Debug\zsbApp.SplitSql.exe
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\bin\Debug\zsbApp.SplitSql.pdb
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.csprojResolveAssemblyReference.cache
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.Form1.resources
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.Properties.Resources.resources
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.csproj.GenerateResource.cache
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.csproj.CoreCompileInputs.cache
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.exe
+G:\zsb\code\201706+\zsbApp.SplitSql\zsbApp.SplitSql\obj\Debug\zsbApp.SplitSql.pdb
